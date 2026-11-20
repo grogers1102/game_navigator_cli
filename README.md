@@ -1,1 +1,1 @@
-# game_navigotor_cli
+# game_navigator_cli
